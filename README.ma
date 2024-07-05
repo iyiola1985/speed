@@ -1,6 +1,5 @@
 ## Description
-The Simple Grading System is a lightweight, command-line tool designed to help educators manage student grades. It allows for adding, updating, and retrieving student grades quickly. This tool is suitable for small classes or individual assignments.
-
+The  Speed Detector System is a lightweight, command-line tool designed to help individuals manage or know speed limit It allows to input the speed and also know the category your speed fall in into
 ## Installation
 To set up the Simple Grading System on your local machine, follow these steps:
 
